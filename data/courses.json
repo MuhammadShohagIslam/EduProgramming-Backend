@@ -3,36 +3,72 @@
         "id": "1",
         "img": "https://thumbs.dreamstime.com/z/software-testing-internet-business-technology-concept-143071525.jpg",
         "name": "JavaScript Unit Testing - The Practical Guide",
-        "description": "Automated testing is a key concept in modern (web) development.Yet it is a concept that can be intimidating at first, hence many developers shy away from diving into testing and adding tests to their projects. This course will teach you automated unit & integration testing with JavaScript from the ground up. You will learn how tests are written and added to your projects, what should (and should not) be tested and how you can test both simple as well as more complex code."
+        "description": "Automated testing is a key concept in modern (web) development.Yet it is a concept that can be intimidating at first, hence many developers shy away from diving into testing and adding tests to their projects. This course will teach you automated unit & integration testing with JavaScript from the ground up. You will learn how tests are written and added to your projects, what should (and should not) be tested and how you can test both simple as well as more complex code.",
+        "overview": [
+            " Write and structure unit & integration tests",
+            " Remove side effects from tests via mocking and spies",
+            " Work with popular JavaScript test runners and libraries",
+            "Write good tests and focus on testing core business logic"
+        ]
     },
     {
         "id": "2",
         "img": "https://redis.com/wp-content/uploads/2020/04/image1-5-1024x576.png?&auto=webp&quality=85,75&width=800",
         "name": "Redis: The Complete Developer's Guide",
-        "description": "In a world with hundreds of different databases, one database rises to rule them all. Redis is an in-memory database known for its speed and simplicity.  Originally used only for simple caching, its feature set has expanded to be one of the most versatile databases around"
+        "description": "In a world with hundreds of different databases, one database rises to rule them all. Redis is an in-memory database known for its speed and simplicity.  Originally used only for simple caching, its feature set has expanded to be one of the most versatile databases around",
+        "overview": [
+            " Use Redis as an incredibly fast database for a backend application",
+            "Extend the functionality of Redis by using custom scripts and modules",
+            "Add, update, and query your data using simple and flexible commands",
+            "Get hands-on experience by adding Redis to a complex E-Commerce project"
+        ]
     },
     {
         "id": "3",
         "img": "https://webimages.mongodb.com/_com_assets/cms/1-lwnlfl1ryn.png?auto=format%2Ccompress&ch=DPR",
         "name": "Master MongoDB Development for Web & Mobile Apps",
-        "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks."
+        "description": "MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.",
+        "overview": [
+            "Learn what document databases are and how data is organized with MongoDB",
+            "Learn how to perform CRUD operations with MongoDB",
+            "Don't stop at the basics - learn all about writing complex MongoDB queries, in-depth and with practical examples!",
+            "Write efficient and well-performing queries to fetch data in the format you need it"
+        ]
     },
     {
         "id": "4",
         "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191216192618/7-Tips-To-Write-Clean-And-Better-Code-in-2020.png",
         "name": "Clean Code",
-        "description": "you'll learn what exactly clean code is and, more importantly, how you can write clean code. Because if your code is written in a clean way, it's easier to read and understand and therefore easier to maintain.Because it's NOT just the computer who needs to understand your code - your colleagues and your future self needs to be able to understand it as well!"
+        "description": "you'll learn what exactly clean code is and, more importantly, how you can write clean code. Because if your code is written in a clean way, it's easier to read and understand and therefore easier to maintain.Because it's NOT just the computer who needs to understand your code - your colleagues and your future self needs to be able to understand it as well!",
+        "overview": [
+            "Learn how to write code which is readable and understandable",
+            "Keep code alive by increasing maintainability with clean code",
+            "Learn about key principles, rules and concepts that allow you to write clean code",
+            "Learn with hands-on examples and bad to good code transformations"
+        ]
     },
     {
         "id": "5",
         "img": "https://www.codecademy.com/resources/blog/content/images/2021/05/what-is-javascript-used-for-1.png",
         "name": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
-        "description": "JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!"
+        "description": "JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!",
+        "overview": [
+            " Learn JavaScript from scratch and in great detail - from beginner to advanced",
+            "All core features and concepts you need to know in modern JavaScript development",
+            "Everything you need to become a JavaScript expert and apply for JavaScript jobs",
+            "Project-driven learning with plenty of examples"
+        ]
     },
     {
         "id": "6",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJMSrbGUhBcUganZlZpa-DIaF9nio80aWxsw&usqp=CAU",
         "name": "Docker & Kubernetes: The Practical Guide [2022 Edition]",
-        "description": "Docker & Kubernetes are amongst the most in-demand technologies and topics you can learn these days.Because they significantly simplify the development and deployment process of both simple and complex software projects. Especially in web development (though not limited to that), Docker can really take you to the next level! With Docker, you create and manage so-called Containers - basically packages of code and tools required to run that code. These containers allow you to run your programs in a predictable, environment-independent way - no matter where you need to run it."
+        "description": "Docker & Kubernetes are amongst the most in-demand technologies and topics you can learn these days.Because they significantly simplify the development and deployment process of both simple and complex software projects. Especially in web development (though not limited to that), Docker can really take you to the next level! With Docker, you create and manage so-called Containers - basically packages of code and tools required to run that code. These containers allow you to run your programs in a predictable, environment-independent way - no matter where you need to run it.",
+        "overview": [
+            "Learn what Docker and Kubernetes are and why you might want to use them",
+            "Learn how to install and use Docker on any system (macOS, Windows, Linux)",
+            " Learn how to create and use Images & Containers with Docker",
+            " Understand complex topics like managing and persisting data with Volumes"
+        ]
     }
 ]
