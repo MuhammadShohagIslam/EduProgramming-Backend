@@ -12,11 +12,19 @@ app.use([
 
 const courses = require("./data/courses.json");
 
-app.get("/courses",(req, res)=>{
+// get all courses
+app.get("/courses", (req, res) => {
     res.json(courses);
-})
+});
+
+// get single course
+app.get("/courses/:courseId", (req, res) => {
+    const courseId = req.params.courseId;
+    const course = courses.find((course) => course.id === courseId);
+    res.json(course);
+});
 
 const port = process.env.PORT;
-app.listen(port, ()=>{
-    console.log("server is running on port 5000")
-})
+app.listen(port, () => {
+    console.log("server is running on port 5000");
+});
