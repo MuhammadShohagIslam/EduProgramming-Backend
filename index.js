@@ -10,6 +10,11 @@ app.use([
     cors(),
 ]);
 
+const courses = require("./data/courses.json");
+
+app.get("/courses",(req, res)=>{
+    res.json(courses);
+})
 
 const port = process.env.PORT;
 app.listen(port, ()=>{
