@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "title": "Cross-origin resource sharing?",
+        "description": "Through a method known as cross-origin resource sharing, restricted resources on a website can be requested from a domain other than the one that originally delivered the resource. Cross-origin pictures, stylesheets, scripts, iframes, and videos can all be freely inserted into web pages."
+    },
+    {
+        "id": "2",
+        "title": "Why are you using firebase?",
+        "description": "Google Firebase has a plethora of capabilities that position it as the go-to backend development platform for online and mobile projects. It minimizes the workload and time required for development. It's also an excellent prototyping tool. Firebase is straightforward, lightweight, user-friendly, and industrially recognized."
+    },
+    {
+        "id": "3",
+        "title": "What other options do you have to implement authentication?",
+        "description": "Cards, retina scans, voice recognition, and fingerprints are among more methods of authentication."
+    },
+    {
+        "id": "4",
+        "title": "How does the private route work?",
+        "description": "The private route component is comparable to the public route component, with the exception of the redirect URL and authenticate condition. If the user is not authenticated, he will be sent to the login page, and if he is authenticated, he may only access the authenticated routes (Logged in)."
+    },
+    {
+        "id": "5",
+        "title": "What is Node? How does Node work?",
+        "description": "Node.js is an open-source, cross-platform back-end JavaScript runtime environment designed to construct scalable network applications. It runs on a JavaScript Engine and executes JavaScript code outside of a web browser."
+    }
+]
