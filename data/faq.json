@@ -1,22 +1,22 @@
 [
     {
         "id": "1",
-        "question": "What do EduTech courses include?",
-        "answer": "Each EduTech course is created, owned and managed by the instructor(s). The foundation of each EduTech course are its lectures, which can include videos, slides, and text. In addition, instructors can add resources and various types of practice activities, as a way to enhance the learning experience of students. "
+        "question": "What do EduProgramming courses include?",
+        "answer": "Each EduProgramming course is created, owned and managed by the instructor(s). The foundation of each EduProgramming course are its lectures, which can include videos, slides, and text. In addition, instructors can add resources and various types of practice activities, as a way to enhance the learning experience of students. "
     },
     {
         "id": "2",
-        "question": "How do I take a EduTech course?",
-        "answer": "EduTech courses are entirely on-demand and they can be accessed from several different devices and platforms, including a desktop, laptop, and our mobile app. "
+        "question": "How do I take a EduProgramming course?",
+        "answer": "EduProgramming courses are entirely on-demand and they can be accessed from several different devices and platforms, including a desktop, laptop, and our mobile app. "
     },
     {
         "id": "3",
         "question": "Is there any way to preview a course?",
-        "answer": "Yes! Learn how to preview a course, and review key information about it. This article outlines how you can search EduTech's ever-growing library, and find courses you’re interested in taking."
+        "answer": "Yes! Learn how to preview a course, and review key information about it. This article outlines how you can search EduProgramming's ever-growing library, and find courses you’re interested in taking."
     },
     {
         "id": "4",
         "question": "Where can I go for help?",
-        "answer": "if you find you have a question about a paid course while you’re taking it, you can search for answers to your question in the Q&A or ask the instructor.Our Help Center has extensive information regarding EduTech's various features, and articles with troubleshooting steps to help you quickly resolve any issues you encounter. Our support team is also happy to help. "
+        "answer": "if you find you have a question about a paid course while you’re taking it, you can search for answers to your question in the Q&A or ask the instructor.Our Help Center has extensive information regarding EduProgramming's various features, and articles with troubleshooting steps to help you quickly resolve any issues you encounter. Our support team is also happy to help. "
     }
 ]

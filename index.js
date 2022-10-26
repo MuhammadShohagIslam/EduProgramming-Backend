@@ -19,6 +19,10 @@ const courses = require("./data/courses.json");
 const blogs = require("./data/blog.json");
 const faq = require("./data/faq.json");
 
+app.get("/", (req, res) => {
+    res.json("EduProgramming World");
+});
+
 // get all courses
 app.get("/courses", (req, res) => {
     res.json(courses);
@@ -41,7 +45,7 @@ app.get("/faq", (req, res) => {
     res.json(faq);
 });
 
-const port = process.env.PORT;
+const port = process.env.PORT || 5000;
 app.listen(port, () => {
     console.log("server is running on port 5000");
 });
